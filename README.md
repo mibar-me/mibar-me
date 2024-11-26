@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mibra (@mibar-me)
+- 👋 Hi, I’m Mibar (@mibar-me)
 - 👀 I’m interested in backend development, distributed systems, graph databases and everything else in modern (web) development
 - 🌱 I’m currently learning Go, typescript, ecosystems around graph databases
 - 😄 Pronouns: he/him, they/them - whatever feels right to you
